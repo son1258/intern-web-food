@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Pepper Pizza",
+        "description": "5kg box of Pizza", 
+        "price": 15,
+        "image": "Pepper_Pizza_Img"
+    },
+    {
+        "id": 2,
+        "name": "Chicken Spagetti",
+        "description": "1 Big Pack", 
+        "price": 7,
+        "image": "Chicken_Spagetti_Img"
+    },
+    {
+        "id": 3,
+        "name": "Jollof Rice",
+        "description": "1 Combo pack", 
+        "price": 15,
+        "image": "Jollof_Rice_Img"
+    },
+    {
+        "id": 4,
+        "name": "Fruity Pancakes",
+        "description": "Noodle Home", 
+        "price": 15,
+        "image": "Fruity_Pancakes_Img"
+    }
+]
